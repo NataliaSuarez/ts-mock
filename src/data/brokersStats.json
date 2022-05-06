@@ -1,0 +1,197 @@
+[
+    {
+      "key": "BERE",
+      "name": "Berenberg Bank",
+      "totalAnalysts": 1449,
+      "totalIdeas": 0,
+      "region": "Americas",
+      "lastSentBy": "John Doe",
+      "lastSentOn": "2022-02-25T18:52:07.768Z"
+    },
+    {
+      "key": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "totalAnalysts": 10,
+      "totalIdeas": 24,
+      "region": "Europe"
+    },
+    {
+      "key": "LGL",
+      "name": "LGL Capital",
+      "totalAnalysts": 8,
+      "totalIdeas": 18,
+      "region": "Americas"
+    },
+    {
+      "key": "METZ",
+      "name": "Metzler Equities",
+      "totalAnalysts": 1234,
+      "totalIdeas": 0,
+      "audit": "Last email send on Apr 3, 2022",
+      "region": "Asia Pacific",
+      "lastSentBy": "John Doe",
+      "lastSentOn": "2022-02-25T18:52:07.768Z"
+    },
+    {
+      "key": "AKAS",
+      "name": "Okasan",
+      "totalAnalysts": 6,
+      "totalIdeas": 0,
+      "region": "Europe"
+    },
+    {
+      "key": "PALI",
+      "name": "Palissy Advisors",
+      "totalAnalysts": 18,
+      "totalIdeas": 4523,
+      "region": "Europe",
+      "lastSentBy": "John Doe",
+      "lastSentOn": "2022-02-25T18:52:07.768Z"
+    },
+    {
+      "name": "Wilkinson, Donnelly and Koss",
+      "key": "WILK",
+      "totalIdeas": 37,
+      "totalAnalysts": 82,
+      "region": "Americas"
+    },
+    {
+      "name": "Fadel-Veum",
+      "key": "FADE",
+      "totalIdeas": 8212498212,
+      "totalAnalysts": 78,
+      "region": "Americas"
+    },
+    {
+      "name": "Gusikowski-Rice",
+      "key": "GUSIK",
+      "totalIdeas": 38,
+      "totalAnalysts": 23,
+      "region": "Americas"
+    },
+    {
+      "name": "Pacocha, Armstrong and Moen",
+      "key": "PACO",
+      "totalIdeas": 27,
+      "totalAnalysts": 43,
+      "region": "Europe"
+    },
+    {
+      "name": "Macejkovic LLC",
+      "key": "MACEJ",
+      "totalIdeas": 32,
+      "totalAnalysts": 10,
+      "region": "Europe"
+    },
+    {
+      "name": "Volkman Group",
+      "key": "VOLK",
+      "totalIdeas": 57,
+      "totalAnalysts": 22,
+      "region": "Americas"
+    },
+    {
+      "name": "Wintheiser-Carter",
+      "key": "WINTH",
+      "totalIdeas": 44,
+      "totalAnalysts": 76,
+      "region": "Americas"
+    },
+    {
+      "name": "Littel and Sons",
+      "key": "LITT",
+      "totalIdeas": 72,
+      "totalAnalysts": 88,
+      "region": "Americas"
+    },
+    {
+      "name": "Stanton-Bailey",
+      "key": "STANT",
+      "totalIdeas": 38,
+      "totalAnalysts": 66,
+      "region": "Americas"
+    },
+    {
+      "name": "Tremblay LLC",
+      "key": "TREMB",
+      "totalIdeas": 2,
+      "totalAnalysts": 67,
+      "region": "Americas"
+    },
+    {
+      "name": "Hirthe and Sons",
+      "key": "HIRTH",
+      "totalIdeas": 47,
+      "totalAnalysts": 45,
+      "region": "Americas",
+      "lastSentBy": "John Doe",
+      "lastSentOn": "2022-02-25T18:52:07.768Z"
+    },
+    {
+      "name": "McGlynn-Boyle",
+      "key": "MCGLY",
+      "totalIdeas": 0,
+      "totalAnalysts": 89,
+      "region": "Asia Pacific"
+    },
+    {
+      "name": "Smitham Inc",
+      "key": "SMIT",
+      "totalIdeas": 94,
+      "totalAnalysts": 1,
+      "region": "Asia Pacific"
+    },
+    {
+      "name": "Conn and Sons",
+      "key": "CONNS",
+      "totalIdeas": 48,
+      "totalAnalysts": 76,
+      "region": "Asia Pacific",
+      "lastSentBy": "John Doe",
+      "lastSentOn": "2022-02-25T18:52:07.768Z"
+    },
+    {
+      "name": "Haag-Tremblay",
+      "key": "HAAGT",
+      "totalIdeas": 54,
+      "totalAnalysts": 71,
+      "region": "Asia Pacific"
+    },
+    {
+      "name": "Frami LLC",
+      "key": "FRAMI",
+      "totalIdeas": 90,
+      "totalAnalysts": 47,
+      "region": "Europe"
+    },
+    {
+      "name": "Von, Stamm and Zulauf",
+      "key": "VON",
+      "totalIdeas": 31,
+      "totalAnalysts": 49,
+      "region": "Europe"
+    },
+    {
+      "name": "Graham Group",
+      "key": "GRAH",
+      "totalIdeas": 83,
+      "totalAnalysts": 4,
+      "region": "Europe",
+      "lastSentBy": "John Doe",
+      "lastSentOn": "2022-02-25T18:52:07.768Z"
+    },
+    {
+      "name": "Kris-Keebler",
+      "key": "KRISK",
+      "totalIdeas": 33,
+      "totalAnalysts": 38,
+      "region": "Asia Pacific"
+    },
+    {
+      "name": "Prosacco-Wiegand",
+      "key": "PROSA",
+      "totalIdeas": 52,
+      "totalAnalysts": 10,
+      "region": "Asia Pacific"
+    }
+  ]
