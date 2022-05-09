@@ -1,3 +1,20 @@
+export interface Contributor {
+  id: number
+  fullName: string
+  broker: string
+  count: number
+  qtrCount: number
+  idioPlTotal: string
+  idioPlAverage: string
+  idioPlSem: string
+  idioPlStockDays: number
+  idioPlTStat: number
+  hitRate: number
+  slugging: number
+  basePay: number
+  bonusPay: string
+};
+
 export enum ReportType {
   IntraQuarter = 'Intra-Quarter',
   Quarterly = 'Quarterly',
