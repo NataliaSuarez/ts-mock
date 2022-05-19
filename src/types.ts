@@ -1,18 +1,24 @@
+export interface ContributorBroker {
+  key: string
+  name: string
+};
+
 export interface Contributor {
   id: number
   fullName: string
-  broker: string
+  broker: ContributorBroker
   count: number
   qtrCount: number
-  idioPlTotal: string
-  idioPlAverage: string
-  idioPlSem: string
+  idioPlTotal: number
+  idioPlAverage: number
+  idioPlSem: number
   idioPlStockDays: number
   idioPlTStat: number
   hitRate: number
   slugging: number
   basePay: number
-  bonusPay: string
+  bonusPay: number | null
+  excludedInCalc?: boolean
 };
 
 export enum ReportType {

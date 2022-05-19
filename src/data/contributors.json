@@ -2,321 +2,383 @@
   {
     "id": 1,
     "fullName": "Raoul Bernakiewicz",
-    "broker": "White LLC",
+    "broker": {
+      "key": "Whit",
+      "name": "White LLC"
+    },
     "count": 42,
     "qtrCount": 79,
-    "idioPlTotal": "$3193.20",
-    "idioPlAverage": "$11342.54",
-    "idioPlSem": "$137.40",
+    "idioPlTotal": 319320,
+    "idioPlAverage": 113424,
+    "idioPlSem": 1340,
     "idioPlStockDays": 100,
     "idioPlTStat": 3.94,
     "hitRate": 76.0,
     "slugging": 5.63,
     "basePay": 0,
-    "bonusPay": "$8839.97"
+    "bonusPay": 8839
   },
   {
     "id": 2,
     "fullName": "Kelila Dominichetti",
-    "broker": "Mosciski Inc",
+    "broker": {
+      "key": "Mosc",
+      "name": "Mosciski Inc"
+    },
     "count": 95,
     "qtrCount": 61,
-    "idioPlTotal": "$41058.55",
-    "idioPlAverage": "$33407.65",
-    "idioPlSem": "$33906.60",
+    "idioPlTotal": 41058,
+    "idioPlAverage": 334065,
+    "idioPlSem": 339060,
     "idioPlStockDays": 66,
     "idioPlTStat": 3.92,
     "hitRate": 58.4,
     "slugging": 7.36,
     "basePay": 0,
-    "bonusPay": "$6229.24"
+    "bonusPay": 6229
   },
   {
     "id": 3,
     "fullName": "Lexine Connock",
-    "broker": "Hills LLC",
+    "broker": {
+      "key": "Hill",
+      "name": "Hills LLC"
+    },
     "count": 34,
     "qtrCount": 3,
-    "idioPlTotal": "$29925.76",
-    "idioPlAverage": "$13018.09",
-    "idioPlSem": "$13242.45",
+    "idioPlTotal": 299256,
+    "idioPlAverage": 130109,
+    "idioPlSem": 132425,
     "idioPlStockDays": 71,
     "idioPlTStat": 1.76,
     "hitRate": 11.7,
     "slugging": 5.17,
     "basePay": 0,
-    "bonusPay": "$8637.58"
+    "bonusPay": 8637
   },
   {
     "id": 4,
     "fullName": "Damian Seares",
-    "broker": "Gutkowski LLC",
+    "broker": {
+      "key": "Gutk",
+      "name": "Gutkowski LLC"
+    },
     "count": 53,
     "qtrCount": 6,
-    "idioPlTotal": "$51942.12",
-    "idioPlAverage": "$43746.42",
-    "idioPlSem": "$14582.99",
+    "idioPlTotal": 51942,
+    "idioPlAverage": 43746,
+    "idioPlSem": 145829,
     "idioPlStockDays": 88,
     "idioPlTStat": 2.1,
     "hitRate": 41.4,
     "slugging": 3.25,
     "basePay": 0,
-    "bonusPay": "$5641.15"
+    "bonusPay": 5641
   },
   {
     "id": 5,
     "fullName": "Darill Muncer",
-    "broker": "Effertz LLC",
+    "broker": {
+      "key": "Effe",
+      "name": "Effertz LLC"
+    },
     "count": 47,
     "qtrCount": 98,
-    "idioPlTotal": "$58508.90",
-    "idioPlAverage": "$27593.70",
-    "idioPlSem": "$35502.70",
+    "idioPlTotal": 5850,
+    "idioPlAverage": 27593,
+    "idioPlSem": 355029,
     "idioPlStockDays": 74,
     "idioPlTStat": 1.44,
     "hitRate": 89.4,
     "slugging": 7.86,
     "basePay": 0,
-    "bonusPay": "$6767.17"
+    "bonusPay": 6767
   },
   {
     "id": 6,
     "fullName": "Carlyn Gillice",
-    "broker": "Turner and Sons",
+    "broker": {
+      "key": "Turn",
+      "name": "Turner and Sons"
+    },
     "count": 39,
     "qtrCount": 9,
-    "idioPlTotal": "$62132.48",
-    "idioPlAverage": "$4377.21",
-    "idioPlSem": "$27246.99",
+    "idioPlTotal": 621328,
+    "idioPlAverage": 43721,
+    "idioPlSem": 272469,
     "idioPlStockDays": 26,
     "idioPlTStat": 2.97,
     "hitRate": 21.6,
     "slugging": 1.93,
     "basePay": 0,
-    "bonusPay": "$8602.48"
+    "bonusPay": 8602
   },
   {
     "id": 7,
     "fullName": "Tarra Ede",
-    "broker": "Senger LLC",
+    "broker": {
+      "key": "Seng",
+      "name": "Senger LLC"
+    },
     "count": 29,
     "qtrCount": 63,
-    "idioPlTotal": "$24347.91",
-    "idioPlAverage": "$2051.09",
-    "idioPlSem": "$10347.17",
+    "idioPlTotal": 243471,
+    "idioPlAverage": 2059,
+    "idioPlSem": 1037,
     "idioPlStockDays": 40,
     "idioPlTStat": 1.83,
     "hitRate": 87.2,
     "slugging": 8.47,
     "basePay": 0,
-    "bonusPay": "$6705.90"
+    "bonusPay": 6705
   },
   {
     "id": 8,
     "fullName": "Abra Ellard",
-    "broker": "Mills, Schiller and Von",
+    "broker": {
+      "key": "Mill",
+      "name": "Mills, Schiller and Von"
+    },
     "count": 95,
     "qtrCount": 17,
-    "idioPlTotal": "$64001.80",
-    "idioPlAverage": "$6331.45",
-    "idioPlSem": "$22177.76",
+    "idioPlTotal": 640010,
+    "idioPlAverage": 63345,
+    "idioPlSem": 221776,
     "idioPlStockDays": 24,
     "idioPlTStat": 3.15,
     "hitRate": 89.9,
     "slugging": 7.77,
     "basePay": 0,
-    "bonusPay": "$8641.91"
+    "bonusPay": 8641
   },
   {
     "id": 9,
     "fullName": "Peter Tetla",
-    "broker": "Sipes-Miller",
+    "broker": {
+      "key": "Sipe",
+      "name": "Sipes-Miller"
+    },
     "count": 50,
     "qtrCount": 52,
-    "idioPlTotal": "$72290.27",
-    "idioPlAverage": "$45395.79",
-    "idioPlSem": "$45339.30",
+    "idioPlTotal": 722927,
+    "idioPlAverage": 453979,
+    "idioPlSem": 45339.30,
     "idioPlStockDays": 5,
     "idioPlTStat": 1.31,
     "hitRate": 28.4,
     "slugging": 9.38,
     "basePay": 0,
-    "bonusPay": "$7354.53"
+    "bonusPay": 7354
   },
   {
     "id": 10,
     "fullName": "Margot Leffek",
-    "broker": "Rempel-Buckridge",
+    "broker": {
+      "key": "Remp",
+      "name": "Rempel-Buckridge"
+    },
     "count": 19,
     "qtrCount": 40,
-    "idioPlTotal": "$35637.89",
-    "idioPlAverage": "$31421.79",
-    "idioPlSem": "$30547.06",
+    "idioPlTotal": 356379,
+    "idioPlAverage": 31421,
+    "idioPlSem": 30547.06,
     "idioPlStockDays": 68,
     "idioPlTStat": 1.99,
     "hitRate": 37.1,
     "slugging": 7.78,
     "basePay": 0,
-    "bonusPay": "$8507.45"
+    "bonusPay": 8507
   },
   {
     "id": 11,
     "fullName": "Duke Tonkinson",
-    "broker": "Metz, Ledner and Miller",
+    "broker": {
+      "key": "Metz",
+      "name": "Metz, Ledner and Miller"
+    },
     "count": 81,
     "qtrCount": 27,
-    "idioPlTotal": "$27568.42",
-    "idioPlAverage": "$7844.61",
-    "idioPlSem": "$18703.13",
+    "idioPlTotal": 275682,
+    "idioPlAverage": 78441,
+    "idioPlSem": 187033,
     "idioPlStockDays": 14,
     "idioPlTStat": 2.65,
     "hitRate": 64.9,
     "slugging": 7.94,
     "basePay": 0,
-    "bonusPay": "$9436.85"
+    "bonusPay": 9436
   },
   {
     "id": 12,
     "fullName": "Jennie Willshire",
-    "broker": "Luettgen Group",
+    "broker": {
+      "key": "Luet",
+      "name": "Luettgen Group"
+    },
     "count": 13,
     "qtrCount": 72,
-    "idioPlTotal": "$25771.83",
-    "idioPlAverage": "$47537.78",
-    "idioPlSem": "$24344.84",
+    "idioPlTotal": 257713,
+    "idioPlAverage": 47537,
+    "idioPlSem": 243484,
     "idioPlStockDays": 50,
     "idioPlTStat": 1.79,
     "hitRate": 23.3,
     "slugging": 7.64,
-    "basePay": 0,
-    "bonusPay": "$8141.17"
+    "basePay": 8141,
+    "bonusPay": 8141
   },
   {
     "id": 13,
     "fullName": "Orrin Dowber",
-    "broker": "Rippin and Sons",
+    "broker": {
+      "key": "Ripp",
+      "name": "Rippin and Sons"
+    },
     "count": 17,
     "qtrCount": 84,
-    "idioPlTotal": "$17409.65",
-    "idioPlAverage": "$34295.76",
-    "idioPlSem": "$32869.23",
+    "idioPlTotal": 174065,
+    "idioPlAverage": 3429576,
+    "idioPlSem": 328623,
     "idioPlStockDays": 46,
     "idioPlTStat": 3.28,
     "hitRate": 5.7,
     "slugging": 5.75,
     "basePay": 0,
-    "bonusPay": "$7156.38"
+    "bonusPay": null
   },
   {
     "id": 14,
     "fullName": "Waring Elecum",
-    "broker": "Schmeler LLC",
+    "broker": {
+      "key": "Schm",
+      "name": "Schmeler LLC"
+    },
     "count": 7,
     "qtrCount": 100,
-    "idioPlTotal": "$79755.80",
-    "idioPlAverage": "$18508.63",
-    "idioPlSem": "$20174.99",
+    "idioPlTotal": 797580,
+    "idioPlAverage": 185063,
+    "idioPlSem": 20174.99,
     "idioPlStockDays": 11,
     "idioPlTStat": 3.23,
     "hitRate": 90.0,
     "slugging": 7.72,
     "basePay": 0,
-    "bonusPay": "$7023.40"
+    "bonusPay": null,
+    "excludedInCalc": true
   },
   {
     "id": 15,
     "fullName": "Elizabet Handsheart",
-    "broker": "Kreiger LLC",
+    "broker": {
+      "key": "Krei",
+      "name": "Kreiger LLC"
+    },
     "count": 71,
     "qtrCount": 35,
-    "idioPlTotal": "$58904.55",
-    "idioPlAverage": "$35178.39",
-    "idioPlSem": "$38858.72",
+    "idioPlTotal": 58955,
+    "idioPlAverage": 35179,
+    "idioPlSem": 388582,
     "idioPlStockDays": 22,
     "idioPlTStat": 2.18,
     "hitRate": 39.9,
     "slugging": 4.18,
     "basePay": 0,
-    "bonusPay": "$7135.73"
+    "bonusPay": null,
+    "excludedInCalc": true
   },
   {
     "id": 16,
     "fullName": "Derwin Sawter",
-    "broker": "Thiel Inc",
+    "broker": {
+      "key": "Thie",
+      "name": "Thiel Inc"
+    },
     "count": 36,
     "qtrCount": 4,
-    "idioPlTotal": "$15254.75",
-    "idioPlAverage": "$25304.95",
-    "idioPlSem": "$47319.08",
+    "idioPlTotal": 152575,
+    "idioPlAverage": 253095,
+    "idioPlSem": 473198,
     "idioPlStockDays": 35,
     "idioPlTStat": 1.14,
     "hitRate": 54.5,
     "slugging": 7.7,
     "basePay": 0,
-    "bonusPay": "$9015.48"
+    "bonusPay": 9015
   },
   {
     "id": 17,
     "fullName": "Kirstin Graine",
-    "broker": "Legros, Simonis and Kunde",
+    "broker": {
+      "key": "Legr",
+      "name": "Legros, Simonis and Kunde"
+    },
     "count": 22,
     "qtrCount": 65,
-    "idioPlTotal": "$28071.87",
-    "idioPlAverage": "$12053.24",
-    "idioPlSem": "$43935.27",
+    "idioPlTotal": 28071,
+    "idioPlAverage": 12053,
+    "idioPlSem": 43935,
     "idioPlStockDays": 63,
     "idioPlTStat": 3.56,
     "hitRate": 83.2,
     "slugging": 3.97,
     "basePay": 0,
-    "bonusPay": "$8522.10"
+    "bonusPay": null
   },
   {
     "id": 18,
     "fullName": "Tove Burrows",
-    "broker": "Schumm, Olson and Kohler",
+    "broker": {
+      "key": "Schu",
+      "name": "Schumm, Olson and Kohler"
+    },
     "count": 77,
     "qtrCount": 23,
-    "idioPlTotal": "$20617.74",
-    "idioPlAverage": "$14272.71",
-    "idioPlSem": "$20513.57",
+    "idioPlTotal": 20617,
+    "idioPlAverage": 14272,
+    "idioPlSem": 20513,
     "idioPlStockDays": 29,
     "idioPlTStat": 3.44,
     "hitRate": 1.4,
     "slugging": 5.5,
     "basePay": 0,
-    "bonusPay": "$9719.13"
+    "bonusPay": 9719
   },
   {
     "id": 19,
     "fullName": "Dorita Chapelhow",
-    "broker": "Schulist, Jerde and Marks",
+    "broker": {
+      "key": "Schu",
+      "name": "Schulist, Jerde and Marks"
+    },
     "count": 17,
     "qtrCount": 19,
-    "idioPlTotal": "$78312.08",
-    "idioPlAverage": "$9655.13",
-    "idioPlSem": "$43716.92",
+    "idioPlTotal": 78312,
+    "idioPlAverage": 96513,
+    "idioPlSem": 437192,
     "idioPlStockDays": 87,
     "idioPlTStat": 2.42,
     "hitRate": 80.2,
     "slugging": 4.15,
     "basePay": 0,
-    "bonusPay": "$6100.24"
+    "bonusPay": 6100
   },
   {
     "id": 20,
     "fullName": "Royce Bellringer",
-    "broker": "Adams and Sons",
+    "broker": {
+      "key": "Adam",
+      "name": "Adams and Sons"
+    },
     "count": 45,
     "qtrCount": 46,
-    "idioPlTotal": "$56163.01",
-    "idioPlAverage": "$14944.07",
-    "idioPlSem": "$24423.79",
+    "idioPlTotal": 561631,
+    "idioPlAverage": 149407,
+    "idioPlSem": 24429,
     "idioPlStockDays": 67,
     "idioPlTStat": 3.84,
     "hitRate": 95.4,
     "slugging": 3.72,
-    "basePay": 0,
-    "bonusPay": "$8375.96"
+    "basePay": 8375,
+    "bonusPay": 8375
   }
 ]
